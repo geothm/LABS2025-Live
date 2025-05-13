@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ro.irian.labs</groupId>
-    <artifactId>L1E3-SpringServiceDI</artifactId>
+    <artifactId>L1E4-SpringMultiDI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>L1E3-SpringServiceDI</name>
-    <description>L1E3-SpringServiceDI</description>
+    <name>L1E4-SpringMultiDI</name>
+    <description>L1E4-SpringMultiDI</description>
     <url/>
     <licenses>
         <license/>
