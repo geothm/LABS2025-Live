@@ -31,7 +31,7 @@
 
         <dependency>
             <groupId>ro.irian.labs</groupId>
-            <artifactId>labs-2025-pizza-app-service-api</artifactId>
+            <artifactId>labs-2025-pizza-app-service</artifactId>
         </dependency>
     </dependencies>
 
